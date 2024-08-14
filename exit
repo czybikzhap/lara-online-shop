@@ -1,0 +1,309 @@
+[33mcommit ecf278c57ba211183c650f7b231cf49fbaf3ecc0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1f1b02f 493ff01
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Wed Dec 21 21:58:18 2022 +0700
+
+    Merge pull request #18 from LubsanGarmaev98/send-email
+    
+    fix code
+
+[33mcommit 493ff0177c386de08eed3b58e8b157d2579f273e[m[33m ([m[1;31morigin/send-email[m[33m)[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Wed Dec 21 21:56:50 2022 +0700
+
+    fix code
+
+[33mcommit 1f1b02fe38da257597246596b7f537ea6d97bc67[m
+Merge: a09b255 521b21c
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Wed Dec 21 14:53:46 2022 +0700
+
+    Merge pull request #17 from LubsanGarmaev98/send-email
+    
+    code review
+
+[33mcommit 521b21c1ad972f0a1e3039e50eeb966cd4862372[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Wed Dec 21 14:52:31 2022 +0700
+
+    code review
+
+[33mcommit a09b2557f8cc755c5e7e633fc886d30b382a0f72[m
+Merge: fda5db7 f1e8e42
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Tue Dec 20 22:45:10 2022 +0700
+
+    Merge pull request #16 from LubsanGarmaev98/send-email
+    
+    fix
+
+[33mcommit f1e8e42453e9a44e4421e51d85638e0556d53c33[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Tue Dec 20 22:44:01 2022 +0700
+
+    fix
+
+[33mcommit fda5db7d25535b8b8c9ca6b6f2152ab2888ce820[m
+Merge: bd9079a d492d3c
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Mon Dec 19 23:40:11 2022 +0700
+
+    Merge pull request #15 from LubsanGarmaev98/send-email
+    
+    fix duplicate code
+
+[33mcommit d492d3c290c8fc22491fd0e24c658f821ab8cfc5[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Mon Dec 19 23:39:12 2022 +0700
+
+    fix duplicate code
+
+[33mcommit bd9079ad9a962d9f5e8c21ea4b10cc09b5dba89c[m
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Mon Dec 19 19:52:06 2022 +0700
+
+    Update README.md
+
+[33mcommit 7a7df26fc85f3d7969f301b88a3b7108606cb1d4[m
+Merge: ac675e9 49b4fd2
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Sun Dec 18 03:02:48 2022 +0700
+
+    Merge pull request #14 from LubsanGarmaev98/send-email
+
+[33mcommit 49b4fd23d2bb1b5e3044886b7314e4968414a282[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Sun Dec 18 03:00:16 2022 +0700
+
+    fix router
+
+[33mcommit c3d681b1fd81944d463ebc34d9329e64504d1a72[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Sun Dec 18 02:57:59 2022 +0700
+
+    fix chat
+
+[33mcommit ac675e9bfcdd42d47bc69586885e6ef7a6ce45a2[m
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Sat Dec 17 05:22:57 2022 +0700
+
+    Update README.md
+
+[33mcommit ed63d1ce3b77989f336f62a7545a72759591ed6c[m
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Sat Dec 17 05:19:29 2022 +0700
+
+    Create REDME.md
+
+[33mcommit e84bc6a11f79e2b8958088a65be0d0ae47ee07dd[m
+Merge: 0b5e95f f76aaa4
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Thu Dec 15 21:42:24 2022 +0700
+
+    Merge pull request #13 from LubsanGarmaev98/send-email
+    
+    Add pattern Strategy
+
+[33mcommit f76aaa4734d6870456a925af41eb5d58462eb793[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Thu Dec 15 21:41:29 2022 +0700
+
+    Add pattern Strategy
+
+[33mcommit 0b5e95fc8f03cdbfc5eebfd6acc1290ab288fee8[m
+Merge: e425cdf 178c395
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Tue Dec 13 23:20:22 2022 +0700
+
+    Merge pull request #12 from LubsanGarmaev98/send-email
+    
+    Add daemon, send message email
+
+[33mcommit 178c3952e321c1260a0a9c72dfc4e5c310841409[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Tue Dec 13 23:19:09 2022 +0700
+
+    Add daemon, send message email
+
+[33mcommit e425cdfa99bbc6fcf2925aac9673580b5de73bfb[m
+Merge: 0d51ef5 8553ac0
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Fri Dec 9 21:44:46 2022 +0700
+
+    Merge pull request #11 from LubsanGarmaev98/send-email
+    
+    add rabbitmq
+
+[33mcommit 8553ac06c071459d1ed912e84a11d8042787867c[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Fri Dec 9 21:43:16 2022 +0700
+
+    add rabbitmq
+
+[33mcommit 0d51ef5606e8e27f3042ffa4374fc8308ec04b2f[m
+Merge: 37829b6 05aa2f3
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Thu Dec 8 11:51:47 2022 +0700
+
+    Merge pull request #10 from LubsanGarmaev98/message
+    
+    fix message
+
+[33mcommit 05aa2f34aedbb572d7e90e337761d2dc1a62b4ae[m[33m ([m[1;31morigin/message[m[33m)[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Mon Dec 5 21:08:03 2022 +0700
+
+    fix message
+
+[33mcommit 37829b6f4fb56f18b830f1d27f9cb9353a52a7be[m
+Merge: 8483f84 43cf8a2
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Mon Dec 5 18:25:18 2022 +0700
+
+    Merge pull request #9 from LubsanGarmaev98/message
+    
+    Add send Message
+
+[33mcommit 43cf8a2d7b1e3ca39be2bd827f84306c70fcdb92[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Mon Dec 5 18:24:27 2022 +0700
+
+    Add send Message
+
+[33mcommit 8483f84b128762f0de09d744080f594606238ebc[m
+Merge: edf9c6e 5ebbf9d
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Sun Dec 4 15:24:24 2022 +0700
+
+    Merge pull request #8 from LubsanGarmaev98/ligames
+    
+    Add fix GameController
+
+[33mcommit 5ebbf9d5ca71f0d6e96d25fb2478f7f2a26ef623[m[33m ([m[1;31morigin/ligames[m[33m)[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Sun Dec 4 15:23:03 2022 +0700
+
+    Add fix GameController
+
+[33mcommit edf9c6e9fd20694eb5ff7e7b63098c71bc5c5dc4[m
+Merge: b525aad 949a5f2
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Thu Nov 24 21:57:41 2022 +0700
+
+    Merge pull request #7 from LubsanGarmaev98/ligames
+    
+    Add Game
+
+[33mcommit 949a5f2eb9571924db5ae8f8e6018f708bcf7b28[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Thu Nov 24 21:55:52 2022 +0700
+
+    Add Game
+
+[33mcommit b525aadb700a612e6c107a81735e8a0ebfed6e6d[m
+Merge: 4f728ae 0807fe2
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Sat Nov 19 22:57:21 2022 +0700
+
+    Merge pull request #6 from LubsanGarmaev98/signin
+    
+    Add subscrib
+
+[33mcommit 0807fe2b6a57cc190bd7106e67775a422ce60f9e[m[33m ([m[1;31morigin/signin[m[33m)[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Sat Nov 19 22:56:08 2022 +0700
+
+    Add subscrib
+
+[33mcommit 4f728ae8d3eef20e0da0a037576649079f934550[m
+Merge: 6433970 d38ebf5
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Thu Nov 17 01:34:53 2022 +0700
+
+    Merge pull request #5 from LubsanGarmaev98/signin
+    
+    Add followers
+
+[33mcommit d38ebf5b5f1ed9ff51b6d0e8b2e560fa4c126f02[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Thu Nov 17 01:32:52 2022 +0700
+
+    Add followers
+
+[33mcommit 6433970e503fa82fed86788252391f3b2600b333[m
+Merge: 7781cb4 20f3e23
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Wed Nov 9 04:26:35 2022 +0700
+
+    Merge pull request #4 from LubsanGarmaev98/signin
+    
+    Add delete User
+
+[33mcommit 20f3e23942dd1f0d127af08dd07b96c290c76208[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Wed Nov 9 04:22:56 2022 +0700
+
+    Add delete User
+
+[33mcommit 7781cb4101e52ea2e897b309b8c154dbb8c7b1e6[m
+Merge: d65ea19 5131a38
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Tue Nov 8 16:48:01 2022 +0700
+
+    Merge pull request #3 from LubsanGarmaev98/signin
+    
+    Add getUserInfo
+
+[33mcommit 5131a38dcdb00fa7a17cc2bd4f9b8a49ffe7fe63[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Tue Nov 8 16:46:32 2022 +0700
+
+    Add getUserInfo
+
+[33mcommit d65ea19238ca4a35e7b30f9e5e13093c687552e5[m
+Merge: 421830e 199993a
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Tue Nov 8 01:44:25 2022 +0700
+
+    Merge pull request #2 from LubsanGarmaev98/signin
+    
+    Add signIn
+
+[33mcommit 199993a53d7c1e50e6c5ce1e235342c1d286dd10[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Tue Nov 8 01:30:51 2022 +0700
+
+    Add signIn
+
+[33mcommit 421830e627cdfe729c4bc4881afb50fb05804a31[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Sat Nov 5 20:28:42 2022 +0700
+
+    update gitignore
+
+[33mcommit de8c8f73f79279e480e483df9e45b4d66f9c02d8[m
+Merge: 7107019 5a9c433
+Author: Лубсан Гармаев <96130178+LubsanGarmaev98@users.noreply.github.com>
+Date:   Sat Nov 5 20:15:02 2022 +0700
+
+    Merge pull request #1 from LubsanGarmaev98/test
+    
+    Test
+
+[33mcommit 5a9c43306faef408d19989ee263296fdf7b8cf25[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Wed Nov 2 00:12:33 2022 +0700
+
+    Add signup route
+
+[33mcommit fe2f5a36a61e9f80eba8ad867b406dbbcf0d777b[m
+Author: Lubsan <lubsan14091998@gmail.com>
+Date:   Thu Oct 27 00:16:39 2022 +0700
+
+    add Slim
+
+[33mcommit 7107019d162a8ee3b3aed16cf7a2e0b39ee7d88f[m
+Author: LubsanGarmaev98 <lubsan14091998@gmail.com>
+Date:   Sun Oct 16 17:50:42 2022 +0700
+
+    init commit
