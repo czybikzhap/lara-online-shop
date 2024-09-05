@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('product_id')->references('id')->on('products');
             $table->integer('amount');
             $table->unique(['user_id', 'product_id']);
+            $table->timestamps();
         });
     }
 
